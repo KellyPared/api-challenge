@@ -1,2 +1,2 @@
-# api-challenge
+# python-api-challenge
 bootcamp #6 homework
